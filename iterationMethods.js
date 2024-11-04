@@ -43,4 +43,4 @@ let divisibleBy5MultipliedBy3 = divisibleBy5.map(function (num) {
     return num * 3;
 });
 
-console.log(divisibleBy5MultipliedBy3);
+console.log(divisibleBy5MultipliedBy3)
